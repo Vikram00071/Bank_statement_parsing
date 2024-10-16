@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script extracts data from bank statement PDFs and processes it using the `camelot` library. It performs the following tasks:
+This script extracts data from bank statement PDFs. It performs the following tasks:
 
 1. Extracts data from PDF.
 2. Pre-processes the extracted data to remove extra columns, align columns, and clean up the data.
