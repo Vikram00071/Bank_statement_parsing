@@ -25,7 +25,7 @@ Update the path to the PDF file in the script:
 
 Run the script:
 
-### python your_script_name.py
+### python main.py
 
 
 The output will be saved as an Excel file in the same directory as the PDF, with the same name but with an .xlsx extension.
